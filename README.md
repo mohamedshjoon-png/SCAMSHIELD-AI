@@ -72,6 +72,9 @@ SCAMSHIELD_AI/
 5. Build a labeled test set of benign and malicious examples; report precision, recall, false-positive rate, and false-negative rate.
 6. Add automated tests, accessibility checks, and a privacy/data-retention review.
 
-## 9. Team and attribution
+9. ## Team Members
 
-Add the registered team members and any third-party libraries or assets used before final submission. Ensure all team members have reviewed the source code and agree with the submission.
+- Shjoon
+- Alreem
+- Shumoukh
+- Sheikha.

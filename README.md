@@ -55,13 +55,12 @@ The hackathon challenge includes identifying fraudulent links and websites appea
 No build step or package installation is required for this single-file prototype.
 
 ## 7. Repository structure
-
-```text
-SCAMSHIELD_AI/
+SCAMSHIELD-AI/
 ├── index.html
 ├── README.md
-└── TECHNICAL_DOCUMENTATION.md
-```
+├── TECHNICAL_DOCUMENTATION.md
+├── SUBMISSION_CHECKLIST.md
+└── SCAMSHIELD_AI_Hackathon_Presentation.pptx
 
 ## 8. Suggested next steps
 
